@@ -152,20 +152,20 @@
  <Reference Include="Clojure">
  <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Clojure.dll</HintPath>
  </Reference>
- <Reference Include="Microsoft.Scripting">
- <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.dll</HintPath>
- </Reference>
  <Reference Include="Ionic.Zip">
  <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Ionic.Zip.dll</HintPath>
- </Reference>
- <Reference Include="Microsoft.Scripting.Metadata">
- <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.Metadata.dll</HintPath>
  </Reference>
  <Reference Include="Microsoft.Dynamic">
  <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Dynamic.dll</HintPath>
  </Reference>
  <Reference Include="Microsoft.Scripting.Core">
  <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Scripting">
+ <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Scripting.Metadata">
+ <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.Metadata.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

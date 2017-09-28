@@ -103,6 +103,24 @@
  <Reference Include="UnityEngine.VR">
  <HintPath>D:/Unity 5.5.1f1/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
+ <Reference Include="Clojure">
+ <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Clojure.dll</HintPath>
+ </Reference>
+ <Reference Include="Ionic.Zip">
+ <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Ionic.Zip.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Dynamic">
+ <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Dynamic.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Scripting.Core">
+ <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Scripting">
+ <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Scripting.Metadata">
+ <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.Metadata.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>D:/Unity 5.5.1f1/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
@@ -114,24 +132,6 @@
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>D:/Unity 5.5.1f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="Clojure">
- <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Clojure.dll</HintPath>
- </Reference>
- <Reference Include="Microsoft.Scripting">
- <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.dll</HintPath>
- </Reference>
- <Reference Include="Ionic.Zip">
- <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Ionic.Zip.dll</HintPath>
- </Reference>
- <Reference Include="Microsoft.Scripting.Metadata">
- <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.Metadata.dll</HintPath>
- </Reference>
- <Reference Include="Microsoft.Dynamic">
- <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Dynamic.dll</HintPath>
- </Reference>
- <Reference Include="Microsoft.Scripting.Core">
- <HintPath>E:/code/unity/arcadia-intro/Assets/Arcadia/Infrastructure/Microsoft.Scripting.Core.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
